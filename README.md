@@ -1,6 +1,6 @@
 # Logix
  
-Chinese checkers players made By Jayden Geisler 
+## Chinese checkers players made By Jayden Geisler 
 
 ccExp.py
 	this file brings the player and the board together and regulates what player will go next 
@@ -11,14 +11,14 @@ ccBoard.py
 ccPlayer.py 
 	file that contains all the different types of players 
 
-	MC_player 
-		this player uses Monte Carlo simulation to predict where the most likely to win move is on the current board state
+MC_player 
+	this player uses Monte Carlo simulation to predict where the most likely to win move is on the current board state
 
-	Random_Player 
-		this player just plays randomly 
+Random_Player 
+	this player just plays randomly 
 
-	Ordered_player 
-		moves to the highest value position
+Ordered_player 
+	moves to the highest value position
 
 graphics.py 
 	a tool I used for displaying the current game acquired from:
