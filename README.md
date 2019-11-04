@@ -2,10 +2,10 @@
  
 ## Chinese checkers players made By Jayden Geisler 
 
-ccExp.py
+ccExp.py \n
 	this file brings the player and the board together and regulates what player will go next 
 
-ccBoard.py
+ccBoard.py \n
 	this is the board of the game, will return a list of the positions of the board pieces also the value of the players positions, the values are how close you are to the winning side
 
 ccPlayer.py 
